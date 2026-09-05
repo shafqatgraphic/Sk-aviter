@@ -1,15 +1,15 @@
 {
   "matching_urls": [
-    "https://www.pakvip.live/#/game/iframe?url=",
-    "https://www.pakvip.live/#/game/iframe",
+    "https://pakclub14.com/game/iframe?url=",
+    "https://pakclub14.com/game/iframe",
     "vendorCode=TB_Chess&gameCode=800",
     "gameCode=800"
   ],
-  "deposit_url": "https://www.pakvip.live/#/wallet/recharge",
-  "login_url": "https://www.pakvip.live/#/login",
-  "register_url": "https://www.pakvip.live/#/register?invitationCode=53447100592",
+  "deposit_url": "https://pakclub14.com/wallet/recharge",
+  "login_url": "https://pakclub14.com/login",
+  "register_url": "https://pakclub14.com/register?inviteCode=35NRG4N&from=app",
   "telegram_url": "https://whatsapp.com/channel/0029VbAM8G69xVJheZPGIA2W",
-  "home_url": "https://www.pakvip.live",
+  "home_url": "https://pakclub14.com",
   "minimum_deposit_number": 500,
   "allowed_numbers": ["3456778910"],
   "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/loginfailed.mp3",
